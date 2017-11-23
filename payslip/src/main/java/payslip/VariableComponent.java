@@ -5,7 +5,7 @@ package payslip;
 */
 public class VariableComponent {
 
-   private double variabl;
+   private double variable;
 
    // constructor
    public VariableComponent(){
